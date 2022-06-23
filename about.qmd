@@ -5,4 +5,4 @@ toc: false
 
 ## Program :
 
-1.  [Business Intelligence Analyst](https://bank-muamalat-vix-talent-database.netlify.app/bi.html "Business Intelligence Analyst")
+1.  [Campaign & Digital Performance Officer](https://jakmall-vix-talent-database.netlify.app/cdpo.html "Campaign & Digital Performance Officer")
