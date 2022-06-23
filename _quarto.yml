@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Jakmall - VIX Talent Database"
+  navbar:
+    background: primary
+    left:
+      - href: cdpo.qmd
+        text: Dashboard
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
